@@ -20,7 +20,8 @@ The dataset used in this project is the "Diabetes Dataset," stored in a CSV file
 ### Target Variable (Dependent Variable):
     *   Outcome (0 for non-diabetic, 1 for diabetic)
 
-The dataset used in this project is available in this repository and here is the link to it: (diabetes.csv)   
+The dataset used in this project is available in this repository and here is the link to it: [diabetes.csv](diabetes.csv)
+  
 
 ## Methodology
 The project follows these steps:
