@@ -61,7 +61,7 @@ The script includes an example of making predictions on new data. Modify the `in
 ### example input data
 input_data = (5, 166, 72, 19, 175, 25.8, 0.587, 51)  
 
-The output will be similar to:
+The **output** will be:
 The person is diabetic
 
 ## Code Explanation
