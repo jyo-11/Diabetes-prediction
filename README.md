@@ -8,7 +8,7 @@ Diabetes is a chronic health condition that affects millions worldwide. Early de
 ## Dataset
 The dataset used in this project is the "Diabetes Dataset," stored in a CSV file named `diabetes.csv`. It contains various features related to health measurements:
 
-# Features (Independent Variables):
+### Features (Independent Variables):
     *  Pregnancies
     *   Glucose
     *   BloodPressure
@@ -17,7 +17,7 @@ The dataset used in this project is the "Diabetes Dataset," stored in a CSV file
     *   BMI
     *   DiabetesPedigreeFunction
     *   Age
-# Target Variable (Dependent Variable):
+### Target Variable (Dependent Variable):
     *   Outcome (0 for non-diabetic, 1 for diabetic)
 
 The dataset used in this project is available in this repository and here is the link to it: (diabetes.csv)   
@@ -55,10 +55,10 @@ The script outputs the accuracy scores for both the training and testing dataset
 Accuracy score of the training data: 0.7833333333333333
 Accuracy score of the testing data: 0.7272727272727273
 
-##Prediction
+## Prediction
 The script includes an example of making predictions on new data. Modify the `input_data` variable in the script with the features of a new individual.  The output will indicate the prediction (diabetic or non-diabetic).  For example:
 
-# example input data
+### example input data
 input_data = (5, 166, 72, 19, 175, 25.8, 0.587, 51)  
 
 The output will be similar to:
